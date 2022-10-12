@@ -1,0 +1,35 @@
+
+fuspo2019.cafe24.com
+
+==========
+https://www.cafe24.com/
+fuspo2019 / drone@clash 
+
+mysql: drone@0808
+
+
+2021-06-18 일까지
+---------
+웹 용량	2000M : 기본 2000M
+트래픽 용량
+웹 용량	2500M : 기본 2500M
+
+서버 환경
+UTF-8 (PHP5.5, MySQL5.x)
+서버아이피 uws64-194 | 183.111.174.109
+
+
+
+-----
+접속 프로토콜
+fuspo2019.cafe24.com
+222.106.53.70
+fuspo2019 / drone@clash
+
+MySQL DB 주소
+localhost
+fuspo2019 / drone@0808
+MySQL DB 포트 : 3306
+
+----
+/home/hosting_users/fuspo2019/fuspo2019-20200625.dump
